@@ -66,5 +66,5 @@ Finalmente, el proyecto tiene como propósito fomentar el aprendizaje práctico,
 </ol>
 
 <p>
-* Esta es la primera vez que intentamos usar la herramienta de GitHub para un proyecto. Cualquier duda, queja o recomendación será bien recibida 🫶
+* Esta es la primera vez que intentamos usar la herramienta de GitHub para un proyecto. Cualquier duda, queja o sugerencia será bien recibida 🫶
 </p>
