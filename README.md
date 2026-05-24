@@ -8,7 +8,7 @@ Tarjeta de desarrollo inteligente basada en microcontroladores PIC.
 
 <div align="right">
 
-<img src="Imagenes/PinguinoCocos.png" width="100">
+<img src="DianaTellez/Imagenes/PinguinoCocos.png" width="100">
 
 </div>
 
